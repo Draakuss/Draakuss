@@ -1,0 +1,2 @@
+- Hi, I’m @Draakuss
+- I’m a renewable energy systems MSc graduate with primary coding experience in Python with machine learning. I also have experience with modelling reactors on Matlab and optimisation on GAMs
