@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isaac</h1>
-<h3 align="center">I'm a recent renewable energy systems MSc graduate passionate about how AI and data science can help open the pathway for sustainable solutions from a personal to an industrial level</h3>
+<h3 align="center">I'm a recent MSc Renewable Energy Systems graduate, passionate about how AI and data science can help pave the way for sustainable solutions—from the personal to the industrial scale!</h3>
 
 
 <div align="center">
